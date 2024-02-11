@@ -32,3 +32,20 @@ The database was fully implemented in MySQL, ensuring reliability and efficiency
 
 By connecting the database to Python, the system gains extensive analytics capabilities, as demonstrated in the study. This integration enables powerful data analysis and visualization, contributing to informed decision-making processes.
 
+## Quick glance at the results
+
+
+![Bar_Chart](assets/image1.png)
+
+
+![Scatter](assets/image2.png)
+
+
+![Word_Cloud](assets/image3.png)
+
+
+![Word_Cloud1](assets/image4.png)
+
+
+![Word_Cloud2](assets/image5.png)
+
